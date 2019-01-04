@@ -1,0 +1,2 @@
+# stopadfraud
+stop ad fraud
